@@ -8,5 +8,4 @@ data_visualisation.ipynb:where i have coded some functions that help understand 
 housing_pred.ipynb: where i work using various machine learning algorithms and compare their performances
 
 The data files: train.csv: the training database that will be cut into a train set and a test set
-
-                test.csv: the file containing the features of the houses of which we have to predict the price
+test.csv: the file containing the features of the houses of which we have to predict the price
